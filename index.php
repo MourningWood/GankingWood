@@ -19,7 +19,7 @@
         
         
         <script type="text/javascript"/ src="script/jquery.js"></script>
-        <script type="text/javascript"/ src="     script/script.js"></script>
+        <script type="text/javascript"/ src="script/script.js"></script>
         
         
     </head>
